@@ -5,7 +5,7 @@ CRUD
 
 Para su desarrollo se uso:
 
-- Visual Basic: c#
+- Visual Basic: c# , asp.net
 
 
 🌱 I’m currently learning new technologies.
