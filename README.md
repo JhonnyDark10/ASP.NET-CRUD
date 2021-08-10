@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Repositorio Flores Jhonny
 
-Proyecto Planificación, en modelo vista controlador.
+CRUD
 
 Para su desarrollo se uso:
 
